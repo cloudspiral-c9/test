@@ -2,8 +2,7 @@
 
 int main(void) {
 
-	printf("suzukidaze");
-	printf("suzukidaze2");
+	printf("Im thuy289!!!");
 	
 	return 0;
 }
