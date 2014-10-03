@@ -3,6 +3,7 @@
 int main(void) {
 
 	printf("suzukidaze");
+	printf("suzukidaze2");
 	
 	return 0;
 }
